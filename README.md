@@ -3,7 +3,6 @@
 I am a student pursuing a Bachelor's degree in Information Systems at the Federal Institute of Santa Catarina, and I hold a technical degree in Systems Analysis and Development from SENAI Joinville.
 ## Learning
 <div style="display: inline_block"<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width = 40px/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width = 40px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = 40px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width=40px/>
